@@ -8,6 +8,7 @@ Verifica que tu sistema esté configurado para UTF-8:
 
 ```bash
 locale
+bash´´´
 
 Si no está configurado, sigue los siguientes pasos para configurar UTF-8:
 
