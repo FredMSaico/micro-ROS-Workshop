@@ -11,7 +11,7 @@ locale
 
 Si no está configurado, sigue los siguientes pasos para configurar UTF-8:
 
-bash
+```bash
 
 sudo apt update && sudo apt install locales
 sudo locale-gen en_US en_US.UTF-8
