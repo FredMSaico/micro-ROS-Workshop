@@ -16,19 +16,14 @@ Esta guía proporciona instrucciones paso a paso para instalar y configurar Ardu
     cd arduino-1.8.19
     sudo sh install.sh
 ```
-    Abre el icono del escritorio.
-
-    En File → Preferences → Additional Boards Manager URLs, pega el siguiente enlace: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json.
-
-    En Tools → Board→ Board Manager, instala la Librería de ESP32 V2.0.0.
-
-    Selecciona el hardware adecuado.
+Abre el icono del escritorio.
+En File → Preferences → Additional Boards Manager URLs, pega el siguiente enlace: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json.
+En Tools → Board→ Board Manager, instala la Librería de ESP32 V2.0.0.
+Selecciona el hardware adecuado.
 
 # Descarga de la biblioteca micro-ROS para Arduino IDE
-
-    Descarga la biblioteca micro-ROS para Arduino IDE desde: micro-ROS Arduino Releases
-
-    Extrae el archivo descargado en /home/$USERNAME/Arduino/libraries/. Asegúrate de que la estructura de carpetas se vea como sigue:
+Descarga la biblioteca micro-ROS para Arduino IDE desde: micro-ROS Arduino Releases
+Extrae el archivo descargado en /home/$USERNAME/Arduino/libraries/. Asegúrate de que la estructura de carpetas se vea como sigue:
 
     ```bash
 
