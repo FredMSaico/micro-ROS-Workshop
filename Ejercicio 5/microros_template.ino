@@ -28,6 +28,8 @@
 #include <rclc/rclc.h>
 #include <rclc/executor.h>
 
+#include <std_msgs/msg/int32_multi_array.h>
+
 /*--------------Creación de entidades---------*/
 rcl_publisher_t publisher;
 rcl_subscription_t subscriber;
