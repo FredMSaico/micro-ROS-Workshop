@@ -24,11 +24,10 @@ Selecciona el hardware adecuado.
 # Descarga de la biblioteca micro-ROS para Arduino IDE
 Descarga la biblioteca micro-ROS para Arduino IDE desde: micro-ROS Arduino Releases
 Extrae el archivo descargado en /home/$USERNAME/Arduino/libraries/. Asegúrate de que la estructura de carpetas se vea como sigue:
-
-    ```bash
+```bash
 
     /home/$USERNAME/Arduino/libraries/micro_ros_arduino
-      ```
+ ```
 
 # Inicia el agente micro-ROS
 
