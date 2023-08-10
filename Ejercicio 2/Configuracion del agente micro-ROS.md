@@ -41,6 +41,17 @@ Compila el espacio de trabajo usando colcon y habilita las herramientas de micro
 ```bash
 
 colcon build
+```
+## Creación de un agente 
+Descarga y contruye paquetes del agente micro-ROS
+```bash
+ros2 run micro_ros_setup create_agent_ws.sh
+ros2 run micro_ros_setup build_agent.sh
 source install/local_setup.bash
 ```
+Ejecuta un agente micro-ROS usando Wi-Fi
+```bash
+ros2 run micro_ros_agent micro_ros_agent udp4 --port 8888
+```
+
 ¡Ahora tienes tu entorno de trabajo configurado con micro-ROS listo para su uso!
