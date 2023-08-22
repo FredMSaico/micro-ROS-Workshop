@@ -22,7 +22,7 @@ En Tools → Board→ Board Manager, instala la Librería de ESP32 V2.0.0.
 Selecciona el hardware adecuado.
 
 # Descarga de la biblioteca micro-ROS para Arduino IDE
-Descarga la biblioteca micro-ROS para Arduino IDE desde: micro-ROS Arduino Releases
+Descarga la biblioteca micro-ROS para Arduino IDE desde micro-ROS Arduino Releases: https://github.com/micro-ROS/micro_ros_arduino/releases
 Extrae el archivo descargado en /home/$USERNAME/Arduino/libraries/. Asegúrate de que la estructura de carpetas se vea como sigue:
 ```bash
 
