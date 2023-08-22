@@ -59,7 +59,8 @@ sudo apt install ros-dev-tools
 Inicializa el entorno ROS2:
 
 ```bash
-
+sudo rosdep init
+sudo rosdep init
 source /opt/ros/foxy/setup.bash
 ```
 ## Verificar instalación
